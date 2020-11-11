@@ -31,6 +31,9 @@ while (option != 9) {
             break;
         case 3:
             console.log("sansa :>> ", sansa);
+            console.log("sansa :>> ", sansa);
+            console.log("sansa :>> ", sansa);
+            console.log("sansa :>> ", sansa);
             break;
         default:
             break;
